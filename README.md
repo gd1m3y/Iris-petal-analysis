@@ -1,5 +1,5 @@
 # Iris petal classification
-[](Iris-petal-classification/download%20(1).jpg)
+![2449182228_f3cc3e43d9_o](https://user-images.githubusercontent.com/27780878/80691340-be21f480-8aed-11ea-8c50-13a1d83c93ce.jpg)
 # This project is a collection of machine and deeplearning models used to classify the iris-petal species 
 # Some models used are.
     - Deep neural nets
